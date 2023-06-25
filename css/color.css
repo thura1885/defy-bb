@@ -1,0 +1,93 @@
+/*============================================================== DEfault style ==========================================================*/
+
+.option{
+    background-color: #19b33b;
+}
+.navbar-default .navbar-nav > li > a:hover {
+    color: #19b33b;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #19b33b !important;
+}
+.navbar-default.small .site-title h3{
+    color: #19b33b;
+}
+.home-text h2 {
+    color: #19b33b;
+}
+.button::before,
+.button::after {
+    background: #19b33b;
+}
+.underline {
+    background-color: #19b33b;
+}
+.about-underline {
+    background-color: #19b33b;
+}
+.work-statistics h3 {
+    color: #19b33b;
+}
+.skill-title h3 {
+    color: #19b33b;
+}
+.expand {
+    background: #19b33b;
+}
+.resume-details-part h3 {
+    color: #19b33b;
+}
+.resume-details-grid {
+    border-left: 2px solid #19b33b;
+}
+.resume-details-grid h3 {
+    color: #19b33b;
+}
+.resume-icon {
+    color: #19b33b;
+}
+.resume-part::before {
+    background-color: #19b33b;
+}
+.overlay {
+    background-color: #19b33b;
+}
+#filters li span.active {
+    background: #19b33b;
+    color: white;
+}
+.fancybox-skin {
+    background: #19b33b;
+}
+.service-icon {
+    background-color: #19b33b;
+}
+.item blockquote p span {
+    background-color: #19b33b;
+}
+#fade-quote-carousel.carousel .carousel-indicators > li {
+    background-color: #19b33b;
+    border: none;
+}
+.fa-4x {
+    color: #19b33b;
+}
+.carousel-control {
+    color: #19b33b;
+}
+.btn-success:hover{
+    background-color: #19b33b;
+    border-color: #19b33b;
+
+}
+.btn-success {
+    background-color: #19b33b;
+    border-color: #19b33b;
+}
+
+
+
+
+
+
